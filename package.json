@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-operations",
+  "version": "1.0.0",
+  "description": "node commands",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuadconrad/basic-node-operations.git"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuadconrad/basic-node-operations/issues"
+  },
+  "homepage": "https://github.com/joshuadconrad/basic-node-operations#readme"
+}
